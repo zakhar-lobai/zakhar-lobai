@@ -3,8 +3,6 @@
 
 🌍 I'm based in Wroclaw, Poland
 
-🧠 I’m currently learning Next.js
-
 🤝  I'm open to collaborating on interesting projects as a developer
 
 📫 How to reach me **lobai.zakhar@gmail.com**
