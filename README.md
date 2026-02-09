@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Zakhar Lobai</h1>
 <h3 align="left">I am Front End developer.</h3>
 
-🌍 I'm based in Wroclaw, Poland
+🌍 I'm based in Warszawa, Poland
 
 🤝  I'm open to collaborating on interesting projects as a developer
 
